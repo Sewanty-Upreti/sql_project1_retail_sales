@@ -89,7 +89,7 @@ WHERE sale_date = '2022-11-05';
 ```
 
 ### Q2: Retrieve all transactions where category is 'Clothing' and quantity sold is more than or equal to 4 in November 2022  
-*(Note: Original query used >=4 as per available data; adjust to >10 if dataset changes)*
+
 
 ```sql
 SELECT * 
@@ -204,4 +204,4 @@ ORDER BY shift;
 
 This project demonstrates essential SQL skills for retail data analysis, including data cleaning, aggregation, window functions, and conditional logic. The queries provide actionable business insights such as top-performing categories, customer demographics, peak months, high-value customers, and operational shift performance.
 
-Feel free to extend this analysis with visualizations or more advanced queries!
+
